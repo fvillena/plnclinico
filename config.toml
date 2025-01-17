@@ -1,0 +1,8 @@
+baseURL = "https://plnclinico.imfd.cl/"
+languageCode = "es"
+title = "Curso de Procesamiento de Lenguaje Natural Clínico"
+theme = 'ananke'
+defaultContentLanguage = "es"
+
+[params]
+    mainSections = ['posts']

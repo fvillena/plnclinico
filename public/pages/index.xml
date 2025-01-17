@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Curso de Procesamiento de Lenguaje Natural Clínico</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Curso de Procesamiento de Lenguaje Natural Clínico</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descripción</title>
+      <link>http://localhost:1313/pages/descripcion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/descripcion/</guid>
+      <description>&lt;p&gt;En el ámbito de la salud, gran parte de la información crítica almacenada en los registros clínicos electrónicos se encuentra en texto libre no estructurado, lo que representa un desafío considerable para su análisis y uso secundario para la extracción de información.&lt;/p&gt;&#xA;&lt;p&gt;Este curso está diseñado para que comprendas y apliques los conceptos clave del procesamiento de lenguaje natural (PLN) y descubras su impacto transformador en las ciencias de la salud. A lo largo de dos días de aprendizaje, combinarás teoría y práctica en laboratorios interactivos que te permitirán desarrollar habilidades fundamentales en el procesamiento de texto, modelamiento predictivo basado en fuentes no estructuradas y técnicas avanzadas para la extracción de información utilizando herramientas del estado del arte en inteligencia artificial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Financiamiento</title>
+      <link>http://localhost:1313/pages/financiamiento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/financiamiento/</guid>
+      <description>&lt;p&gt;El registro del curso es gratuito y además ofrecemos becas completas de transporte y alojamiento para estudiantes de regiones que lo requieran. La asignación del registro y las becas está sujeta al análisis del formulario que deben completar todos los postulantes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Postulación</title>
+      <link>http://localhost:1313/pages/postular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/postular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Profesores</title>
+      <link>http://localhost:1313/pages/profesores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/profesores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programa</title>
+      <link>http://localhost:1313/pages/programa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/programa/</guid>
+      <description>&lt;p&gt;El curso contempla dos días de clases teóricas y laboratorios prácticos sobre la aplicación de Procesamiento de Lenguaje Natural en la Resolución de problemas de salud.&lt;/p&gt;&#xA;&lt;h2 id=&#34;día-1&#34;&gt;Día 1&lt;/h2&gt;&#xA;&lt;h3 id=&#34;0900---0930-bienvenida&#34;&gt;09:00 - 09:30: Bienvenida&lt;/h3&gt;&#xA;&lt;p&gt;El director del curso dará la bienvenida a los estudiantes y agradecerá a los patrocinadores del curso.&lt;/p&gt;&#xA;&lt;h3 id=&#34;0930---1030-introducción-al-pln-clínico-jocelyn-dunstan&#34;&gt;09:30 - 10:30: Introducción al PLN Clínico (Jocelyn Dunstan)&lt;/h3&gt;&#xA;&lt;p&gt;La investigadora nos contará desde su vasta experiencia cuáles son las posibles aplicaciones de Procesamiento de Lenguaje Natural (PLN) en Salud y cuáles son los desafíos de hacer investigación y transferencia tecnológica en el área.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

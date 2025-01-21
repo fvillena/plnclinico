@@ -3,8 +3,8 @@ title = 'Bienvenidos al nuevo curso gratuito de PLN Clínico'
 date = 2025-01-17
 draft = false
 layout = 'post'
-params:
-  author: Fabián Villena
+[params]
+  author = 'Fabián Villena'
 +++
 
 Bienvenido al primer curso gratuito de Procesamiento de Lenguaje Natural clínico para estudiantes y profesionales de la salud e ingeniería de Chile. 

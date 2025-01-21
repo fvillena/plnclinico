@@ -14,14 +14,14 @@ El director del curso dará la bienvenida a los estudiantes y agradecerá a los 
 
 ### 09:30 - 10:30: Introducción al PLN Clínico (Jocelyn Dunstan)
 
-La investigadora nos contará desde su vasta experiencia cuáles son las posibles aplicaciones de Procesamiento de Lenguaje Natural (PLN) en Salud y cuáles son los desafíos de hacer investigación y transferencia tecnológica en el área.
+La investigadora nos contará desde su vasta experiencia, cuáles son las posibles aplicaciones de Procesamiento de Lenguaje Natural (PLN) en Salud y cuáles son los desafíos de hacer investigación y transferencia tecnológica en el área.
 
 ### 10:30 - 11:30: Introducción al aprendizaje automático (Fabián Villena)
 
-En esta clase teórica se abordarán los conceptos básicos de aprendizaje automático y cómo se aplican en la actualidad para resolver problemas de análisis predictivo.
+En esta clase teórica se abordarán los conceptos básicos de aprendizaje automático y cómo se aplican en la actualidad para resolver problemas de análisis predictivo con un enfoque en la utilización de datos no estructurados.
 
 ### 11:30 - 12:30: Herramientas básicas de PLN (Claudio Aracena)
-En esta clase teórica se abordarán todos los métodos básicos de PLN que se utilizan en la actualidad para resolver problemas análisis predictivo utilizando datos de texto
+En esta clase teórica se abordarán todos los métodos básicos de PLN que son la base para poder desarrollar sistemas que utilicen texto como atributo de entrada.
 
 ### 12:30 - 14:00: Almuerzo (no incluido)
 
@@ -43,11 +43,11 @@ En este paso práctico se demostrará utilizando código en Python la resolució
 
 ### 09:00 - 10:00: Grandes modelos de lenguaje (Fabián Villena)
 
-En esta clase teórica se introducirá el nuevo paradigma generativo para la resolución de problemas de PLN.
+En esta clase teórica se introducirá el nuevo paradigma generativo para la resolución de problemas de PLN comparándolo con el paradigma discriminativo que hasta ahora ha sido el más utilizado.
 
 ### 10:00 - 11:00: In-Context learning (Luis Miranda)
 
-En esta clase teórica se abordarán los conceptos básicos de prompting y cómo se aplican en la actualidad para resolver problemas de análisis predictivo.
+En esta clase teórica se abordarán los conceptos básicos de prompting y cómo se aplican en la actualidad para resolver problemas de análisis predictivo utilizando modelos generativos.
 
 ### 11:00 - 12:30: Taller de grandes modelos de lenguaje e In-Context learning (Fabián Villena y Luis Miranda) 
 
@@ -59,7 +59,7 @@ Cada estudiante es libre de almorzar donde prefiera.
 
 ### 14:00 - 17:00: Proyecto final
 
-En este paso práctico los estudiantes deberán resolver un problema de salud utilizando las herramientas aprendidas en el curso. 
+En este paso práctico, grupos de estudiantes deberán resolver un problema de salud utilizando las herramientas aprendidas en el curso. 
 
 ### 17:00 - 18:00: Presentación de proyectos
 

@@ -10,7 +10,7 @@ Este curso está diseñado para que comprendas y apliques los conceptos clave de
 
 Este curso se ofrece de forma gratuita gracias al financiamiento otorgado por la [Nations of The Americas Chapter of the Association of Computational Linguistics](https://naacl.org) e incluye financiamiento de viaje y alojamiento para las personas que no sean de la Región Metropolitana y sean seleccionadas en la fase de postulación.
 
-[Nuestros profesores]({{< ref "/profesores" >}}), con amplia experiencia en docencia, investigación y transferencia tecnológica, han trabajado directamente en la aplicación de estos métodos dentro de múltiples instituciones de salud. Gracias a su experiencia, tendrás la oportunidad de aprender de primera fuente cómo implementar estas tecnologías para resolver los problemas reales del mundo de la salud. Este curso te dará una base sólida para abordar los retos del PLN clínico con confianza y eficacia.
+Nuestros profesores, con amplia experiencia en docencia, investigación y transferencia tecnológica, han trabajado directamente en la aplicación de estos métodos dentro de múltiples instituciones de salud. Gracias a su experiencia, tendrás la oportunidad de aprender de primera fuente cómo implementar estas tecnologías para resolver los problemas reales del mundo de la salud. Este curso te dará una base sólida para abordar los retos del PLN clínico con confianza y eficacia.
 
 ## Patrocinadores
 

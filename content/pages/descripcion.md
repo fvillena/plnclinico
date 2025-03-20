@@ -14,4 +14,16 @@ Nuestros profesores, con amplia experiencia en docencia, investigación y transf
 
 ## Patrocinadores
 
-Contamos con el patrocinio de la [Nations of The Americas Chapter of the Association of Computational Linguistics](https://naacl.org) que nos otorgó financiemiento para las becas de transporte y alojamiento que le ofrecemos a los estudiantes, además del [Instituto Milenio Fundamentos de los Datos](https://imfd.cl) que nos otorgó apoyo logístico y comunicacional.
+Contamos con el patrocinio de:
+
+[{{< figure src="/images/naacl.png" height="100">}}](https://naacl.org)
+
+ - [Nations of The Americas Chapter of the Association of Computational Linguistics](https://naacl.org): Nos otorgaron para las becas de transporte y alojamiento que le ofrecemos a los estudiantes
+
+{{< figure src="/images/fondecyt.png" height="100">}}
+
+ - Fondecyt 1241825: Nos otorgó financiamiento para la logística del curso
+
+[{{< figure src="/images/imfd.png" height="100">}}](https://imfd.cl)
+
+ - [Instituto Milenio Fundamentos de los Datos](https://imfd.cl): Nos otorgó apoyo logístico y comunicacional.

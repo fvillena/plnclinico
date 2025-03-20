@@ -18,7 +18,7 @@ Contamos con el patrocinio de:
 
 [{{< figure src="/images/naacl.png" height="100">}}](https://naacl.org)
 
- - [Nations of The Americas Chapter of the Association of Computational Linguistics](https://naacl.org): Nos otorgaron para las becas de transporte y alojamiento que le ofrecemos a los estudiantes
+ - [Nations of The Americas Chapter of the Association of Computational Linguistics](https://naacl.org): Nos otorgaron financiamiento para las becas de transporte y alojamiento que le ofrecemos a los estudiantes
 
 {{< figure src="/images/fondecyt.png" height="100">}}
 

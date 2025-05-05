@@ -22,8 +22,12 @@ Contamos con el patrocinio de:
 
 {{< figure src="/images/fondecyt.png" height="100">}}
 
- - Fondecyt 1241825: Nos otorgó financiamiento para la logística del curso
+ - Fondecyt 1241825: Nos otorgó financiamiento para la logística del curso.
 
 [{{< figure src="/images/imfd.png" height="100">}}](https://imfd.cl)
 
  - [Instituto Milenio Fundamentos de los Datos](https://imfd.cl): Nos otorgó apoyo logístico y comunicacional.
+
+ [{{< figure src="/images/ac3e.png" height="100">}}](https://imfd.cl)
+
+ - [Instituto Milenio Fundamentos de los Datos](https://imfd.cl): Nos otorgó financiamiento para la logística del curso.

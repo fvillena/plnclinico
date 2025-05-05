@@ -31,7 +31,7 @@ Los asistentes podrán disfrutar de un café y galletas.
 ### 11:30 - 12:30: Herramientas básicas de PLN (Claudio Aracena)
 En esta clase teórica se abordarán todos los métodos básicos de PLN que son la base para poder desarrollar sistemas que utilicen texto como atributo de entrada.
 
-### 12:30 - 14:00: Almuerzo (no incluido)
+### 12:30 - 14:00: Almuerzo (incluido)
 
 Cada estudiante es libre de almorzar donde prefiera.
 
@@ -65,7 +65,7 @@ Los asistentes podrán disfrutar de un café y galletas.
 
 En este paso práctico se demostrará utilizando código en Python cómo se resuelven problemas de análisis predictivo utilizando grandes modelos de lenguaje e In-Context learning.
 
-### 13:00 - 14:30: Almuerzo (no incluido)
+### 13:00 - 14:30: Almuerzo (incluido)
 
 Cada estudiante es libre de almorzar donde prefiera.
 

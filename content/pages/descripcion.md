@@ -30,4 +30,4 @@ Contamos con el patrocinio de:
 
  [{{< figure src="/images/ac3e.png" height="100">}}](https://imfd.cl)
 
- - [Instituto Milenio Fundamentos de los Datos](https://imfd.cl): Nos otorgó financiamiento para la logística del curso.
+ - [Centro Avanzado de Ingeniería Eléctrica y Electrónica](https://ac3e.usm.cl): Nos otorgó financiamiento para la logística del curso.

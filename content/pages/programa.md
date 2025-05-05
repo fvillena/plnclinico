@@ -43,6 +43,10 @@ En este paso práctico se demostrará utilizando código en Python cómo se resu
 
 En esta clase teórica que describirán las principales tareas de PLN clínico y cómo se resuelven en la actualidad.
 
+### 16:30 - 17:00: Coffee break
+
+Los asistentes podrán disfrutar de un café y galletas.
+
 ### 16:30 - 18:00: Taller de resolución de problemas de salud con PLN clínico (Tamara Quiroga)
 
 En este paso práctico se demostrará utilizando código en Python la resolución de problemas de PLN clínico.
@@ -72,6 +76,10 @@ El almuerzo será servido en el lugar del curso.
 ### 14:30 - 17:00: Proyecto final
 
 En este paso práctico, grupos de estudiantes deberán resolver un problema de salud utilizando las herramientas aprendidas en el curso. 
+
+### 16:30 - 17:00: Coffee break
+
+Los asistentes podrán disfrutar de un café y galletas.
 
 ### 17:00 - 18:00: Presentación de proyectos
 

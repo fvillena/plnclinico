@@ -33,7 +33,7 @@ En esta clase teórica se abordarán todos los métodos básicos de PLN que son 
 
 ### 12:30 - 14:00: Almuerzo (incluido)
 
-Cada estudiante es libre de almorzar donde prefiera.
+El almuerzo será servido en el lugar del curso.
 
 ### 14:00 - 15:30: Taller de aprendizaje automático y herramientas básicas de PLN (Fabián Villena y Claudio Aracena)
 
@@ -67,7 +67,7 @@ En este paso práctico se demostrará utilizando código en Python cómo se resu
 
 ### 13:00 - 14:30: Almuerzo (incluido)
 
-Cada estudiante es libre de almorzar donde prefiera.
+El almuerzo será servido en el lugar del curso.
 
 ### 14:30 - 17:00: Proyecto final
 

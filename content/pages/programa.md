@@ -87,4 +87,4 @@ Cada grupo de estudiantes presentará su proyecto final al resto de los asistent
 
 ## Evaluación
 
-Para la evaluación final del curso, se entregarán tres artículos científicos, los cuales los estudiantes deben leer y responder un cuestionario en línea que estará disponible para ser respondido por 1 semana.
+Para la evaluación final del curso, los estudiantes deben responder un cuestionario en línea que estará disponible para ser respondido por 1 semana. Esta nota se promediará con la nota del proyecto final para obtener la nota final del curso.

@@ -19,8 +19,8 @@ Si te encuentras alojado en Mito Casa Hotel, puedes llegar al campus sólo utili
 
 ## Cómo pagar el pasaje del Metro de Santiago
 
-Si no eres de la Región Metropolitana, puedes comprar una tarjeta Bip! en las estaciones de Metro. Esta tarjeta tiene un costo de 1.500 CLP y puedes cargarla con el monto que desees. El pasaje del Metro tiene un costo de 870 CLP en horario punta, entre las 7:00 y 8:59 hrs. y entre las 18:00 y 19:59 horas. Además puedes pagar con Pasaje QR, acá hay instrucciones sobre cómo usar este servicio: [bip!QR](https://www.red.cl/daleqr/Dale-QR.html).
+Si no eres de la Región Metropolitana, puedes comprar una tarjeta Bip! en las estaciones de Metro, ojo que debes pagar en efectivo si deseas comprar la tarjeta en una caja del Metro. Esta tarjeta tiene un costo de 1.500 CLP y puedes cargarla con el monto que desees. El pasaje del Metro tiene un costo de 870 CLP en horario punta, entre las 7:00 y 8:59 hrs. y entre las 18:00 y 19:59 horas. Además puedes pagar con Pasaje QR, acá hay instrucciones sobre cómo usar este servicio: [bip!QR](https://www.red.cl/daleqr/Dale-QR.html).
 
 ## Dónde estacionar el auto
 
-Si decides llegar en auto al campus, puedes estacionar en el estacionamiento del Centro de Innovación UC, que se encuentra dentro del campus. Esta es la ubicación exacta del estacionamiento en Google Maps: [Centro de Innovación UC](https://maps.app.goo.gl/iMaUpUTvwZvFxKSY6).
+Si decides llegar en auto al campus, puedes acceder a estacionamientos de pago en el Centro de Innovación UC, que se encuentra dentro del campus. Esta es la ubicación exacta del estacionamiento en Google Maps: [Centro de Innovación UC](https://maps.app.goo.gl/iMaUpUTvwZvFxKSY6).

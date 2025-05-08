@@ -1,9 +1,6 @@
 +++
 title = 'Preguntas Frecuentes'
 draft = false
-<!-- [menus]
-  [menus.main]
-    name = 'Preguntas' -->
 +++
 
 - **¿Puedo participar del curso si no soy estudiante?**

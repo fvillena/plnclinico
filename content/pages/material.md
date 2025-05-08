@@ -11,7 +11,7 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Introducción al aprendizaje automático
-    - [Presentación](https://plnclinico.imfd.cl/files/Aprendizaje automático.pdf)
+    - [Presentación](https://plnclinico.imfd.cl/files/Aprendizaje%20autom%C3%A1tico.pdf)
     - [Video](about:blank)
 
 - Herramientas básicas de PLN

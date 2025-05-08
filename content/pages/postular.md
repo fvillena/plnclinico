@@ -2,9 +2,9 @@
 title = 'Postulación'
 description = "Para poder asistir a nuestro curso gratuito debes completar un formulario de postulación."
 draft = false
-[menus]
+<!-- [menus]
   [menus.main]
-    name = 'Postular'
+    name = 'Postular' -->
 +++
 
 Para poder asistir a nuestro curso gratuito debes completar un formulario de postulación.

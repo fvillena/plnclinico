@@ -7,7 +7,7 @@ menus = 'main'
 Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como quieras. 
 
 - Introducción al PLN Clínico
-    - [Presentación]({{< relref "/files/Introducción al PLN Clínico.pdf" >}})
+    - [Presentación](https://plnclinico.imfd.cl/files/Introducci%C3%B3n%20al%20PLN%20Cl%C3%ADnico.pdf)
     - [Video](about:blank)
 
 - Introducción al aprendizaje automático

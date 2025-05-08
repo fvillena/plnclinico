@@ -15,11 +15,11 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Herramientas básicas de PLN
-    - [Presentación](about:blank)
+    - [Presentación](https://plnclinico.imfd.cl/files/Herramientas%20b%C3%A1sicas%20de%20PLN.pdf)
     - [Video](about:blank)
 
 - Taller de aprendizaje automático y herramientas básicas de PLN
-    - [Jupyter Notebook](about:blank) - [Google Colab](about:blank)
+    - [Jupyter Notebook](about:blank)
     - [Video](about:blank)
 
 - Resolución de problemas de salud con PLN clínico
@@ -27,7 +27,7 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Taller de resolución de problemas de salud con PLN clínico
-    - [Jupyter Notebook](about:blank) - [Google Colab](about:blank)
+    - [Jupyter Notebook](about:blank)
     - [Video](about:blank)
 
 - Grandes modelos de lenguaje
@@ -39,5 +39,5 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Taller de grandes modelos de lenguaje e In-Context learning
-    - [Jupyter Notebook](about:blank) - [Google Colab](about:blank)
+    - [Jupyter Notebook](about:blank)
     - [Video](about:blank)

@@ -19,7 +19,7 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Taller de aprendizaje automático y herramientas básicas de PLN
-    - [Jupyter Notebook](about:blank)
+    - [Jupyter Notebook](https://plnclinico.imfd.cl/files/Taller%20de%20aprendizaje%20autom%C3%A1tico%20y%20herramientas%20b%C3%A1sicas%20de%20PLN.ipynb)
     - [Video](about:blank)
 
 - Resolución de problemas de salud con PLN clínico

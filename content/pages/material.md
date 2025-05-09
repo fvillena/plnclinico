@@ -7,19 +7,19 @@ menus = 'main'
 Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como quieras. 
 
 - Introducción al PLN Clínico
-    - [Presentación](https://plnclinico.imfd.cl/files/Introducci%C3%B3n%20al%20PLN%20Cl%C3%ADnico.pdf)
+    - [Presentación](https://villena.cl/events/plnclinico/Aprendizaje%20autom%c3%a1tico.pdf)
     - [Video](about:blank)
 
 - Introducción al aprendizaje automático
-    - [Presentación](https://plnclinico.imfd.cl/files/Aprendizaje%20autom%C3%A1tico.pdf)
+    - [Presentación](https://villena.cl/events/plnclinico/Aprendizaje%20autom%C3%A1tico.pdf)
     - [Video](about:blank)
 
 - Herramientas básicas de PLN
-    - [Presentación](https://plnclinico.imfd.cl/files/Herramientas%20b%C3%A1sicas%20de%20PLN.pdf)
+    - [Presentación](https://villena.cl/events/plnclinico/Herramientas%20b%C3%A1sicas%20de%20PLN.pdf)
     - [Video](about:blank)
 
 - Taller de aprendizaje automático y herramientas básicas de PLN
-    - [Jupyter Notebook](https://plnclinico.imfd.cl/files/Taller%20de%20aprendizaje%20autom%C3%A1tico%20y%20herramientas%20b%C3%A1sicas%20de%20PLN.ipynb)
+    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20aprendizaje%20autom%C3%A1tico%20y%20herramientas%20b%C3%A1sicas%20de%20PLN.ipynb)
     - [Video](about:blank)
 
 - Resolución de problemas de salud con PLN clínico

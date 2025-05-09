@@ -19,7 +19,7 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Taller de aprendizaje automático y herramientas básicas de PLN
-    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20aprendizaje%20autom%C3%A1tico%20y%20herramientas%20b%C3%A1sicas%20de%20PLN.ipynb)
+    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20aprendizaje%20autom%C3%A1tico%20y%20herramientas%20b%C3%A1sicas%20de%20PLN.ipynb) - [Google Colab](https://colab.research.google.com/drive/12ByGAZ3xWrxBRjBPoqlydzh4EC4fnGbO?usp=sharing)
     - [Video](about:blank)
 
 - Resolución de problemas de salud con PLN clínico

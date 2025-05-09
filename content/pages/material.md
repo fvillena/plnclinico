@@ -23,11 +23,11 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](about:blank)
 
 - Resolución de problemas de salud con PLN clínico
-    - [Presentación](about:blank)
+    - [Presentación](https://villena.cl/events/plnclinico/Resoluci%c3%b3n%20de%20problemas%20de%20salud%20con%20PLN%20cl%c3%adnico.pdf)
     - [Video](about:blank)
 
 - Taller de resolución de problemas de salud con PLN clínico
-    - [Jupyter Notebook](about:blank)
+    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20resoluci%c3%b3n%20de%20problemas%20de%20salud%20con%20PLN%20cl%c3%adnico.ipynb) - [Google Colab](https://colab.research.google.com/drive/1Kxzbdr8mg_C3S_K1EnC1w0X1krIFp4as?usp=sharing)
     - [Video](about:blank)
 
 - Grandes modelos de lenguaje

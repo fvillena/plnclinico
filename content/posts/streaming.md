@@ -13,7 +13,10 @@ Sabemos que no todos fueron aceptados para asistir presencialmente, por eso hemo
 
 ### ¿Cómo acceder al streaming?
 
-La transmisión en vivo será a través de Youtube. Puedes acceder a la transmisión en el siguiente enlace: [Transmisión en vivo](https://youtube.com/live/aBPNvkAt8qo?feature=share). 
+La transmisión en vivo será a través de Youtube. Puedes acceder a la transmisión en el siguiente enlace: 
+
+- [Día 1 - Viernes 9 de mayo](https://youtube.com/live/aBPNvkAt8qo?feature=share). 
+- [Día 2 - Sábado 10 de mayo](https://youtube.com/live/l7GzJWFj9j4?feature=share).
 
 La transmisión comenzará el viernes 9 de mayo a las 9:00 AM.
 

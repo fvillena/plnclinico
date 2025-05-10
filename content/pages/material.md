@@ -39,5 +39,5 @@ Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como q
     - [Video](https://youtube.com/live/l7GzJWFj9j4?feature=share)
 
 - Taller de grandes modelos de lenguaje e In-Context learning
-    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20grandes%20modelos%20de%20lenguaje%20e%20In-Context%20learning.ipynb) - [Google Colab](https://colab.research.google.com/drive/1klVPZc5r1P4M7CEMoEB9Fur5VJJj58WA?usp=sharing)
+    - [Jupyter Notebook](https://villena.cl/events/plnclinico/Taller%20de%20grandes%20modelos%20de%20lenguaje%20e%20In-Context%20learning.ipynb) - [Google Colab](https://colab.research.google.com/drive/1zAcwNBWTaOhBLxjcMVCl2DH0XLOZ4FRS?usp=sharing)
     - [Video](https://youtube.com/live/l7GzJWFj9j4?feature=share)

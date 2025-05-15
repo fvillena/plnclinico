@@ -7,7 +7,7 @@ menus = 'main'
 Acá se encuentra todo el material del curso. Puedes descargarlo y usarlo como quieras. 
 
 - Introducción al PLN Clínico
-    - [Presentación](https://villena.cl/events/plnclinico/Aprendizaje%20autom%c3%a1tico.pdf)
+    - [Presentación](https://villena.cl/events/plnclinico/Introducci%c3%b3n%20al%20PLN%20Cl%c3%adnico.pdf)
     - [Video](https://youtube.com/live/aBPNvkAt8qo?feature=share)
 
 - Introducción al aprendizaje automático
